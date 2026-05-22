@@ -11,5 +11,9 @@
   "type": "module",
   "lif": {
     "webapp": "./main.jsx"
-  }
+  },
+  "files": [
+    "main.jsx",
+    "style.css"
+  ]
 }
