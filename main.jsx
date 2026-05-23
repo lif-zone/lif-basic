@@ -17,7 +17,7 @@ export const App = ()=>{
     <div onMouseMove={onMouseMove}>
       <h1>Hola Life!</h1>
       <p><img src="/favicon.ico" /></p>
-      <p>Say ¡Hi! to forever apps - apps that LIF forever</p>
+      <p>Say ¡Hi! to forever apps - apps that lif forever!</p>
     </div>
   );
 };

@@ -3,11 +3,9 @@
   "version": "26.5.20",
   "description": "basic shalom guide to the world",
   "author": {
-    "name": "Jungo Publishing Labs",
-    "email": "lif@jungo.center",
-    "url": "https://jungo.center"
+    "name": "Jungo Publishing Labs"
   },
-  "license": "JPL DNA",
+  "license": "JPL DNA JEM",
   "type": "module",
   "lif": {
     "webapp": "./main.jsx"
