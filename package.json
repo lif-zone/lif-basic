@@ -15,6 +15,6 @@
     "style.css"
   ],
   "scripts": {
-    "serve": "node node_modules/lif-kernel/web/serve.js -p 4205"
+    "serve": "npx lif-kernel serve.js -p 4205"
   }
 }
