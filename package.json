@@ -13,5 +13,8 @@
   "files": [
     "main.jsx",
     "style.css"
-  ]
+  ],
+  "scripts": {
+    "serve": "node node_modules/lif-kernel/web/serve.js -p 4205"
+  }
 }
